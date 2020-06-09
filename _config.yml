@@ -34,13 +34,14 @@ social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
-  # hackerrank: your_username
+  hackerrank: http://www.hackerearth.com/@Supragya24
+  hackaday: https://hackaday.io/SupragyaVS
   # instagram: your_username
   # keybase: your_username
   linkedin: Supragya Vikram Singh
   # mastodon: your_username
   # medium: your_username
-  # stackoverflow: your_user_id
+  stackoverflow: 13715634
   # telegram: your_username
   # twitter: your_username
   # unsplash: your_username
@@ -49,11 +50,17 @@ social_media:
   # youtube: your_username
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: C
+    web_url: https://github.com/topics/c-language
+    image_url: https://www.pngitem.com/pimgs/m/31-312155_c-programming-language-logo-hd-png-download.png
+    
+  - name: Applications of Python 
+    web_url: https://github.com/python
+    image_url: https://avatars0.githubusercontent.com/u/1525981?s=200&v=4
 
   - name: Game Development using Unity3D Engine
     web_url: https://github.com/Unity-Technologies
     image_url : https://avatars1.githubusercontent.com/u/426196?s=200&v=4
+    
+  - 
 
