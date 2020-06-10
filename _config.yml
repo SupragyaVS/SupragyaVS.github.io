@@ -34,14 +34,14 @@ social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
-  hackerrank: http://www.hackerearth.com/@Supragya24
+  hackerrank: https://www.hackerrank.com/supragya24
   hackaday: https://hackaday.io/SupragyaVS
   # instagram: your_username
   # keybase: your_username
-  linkedin: Supragya Vikram Singh
+  linkedin: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_top_card%3BfKDS0U0cQTyl7DLAzFkAIw%3D%3D
   # mastodon: your_username
   # medium: your_username
-  stackoverflow: 13715634
+  stackoverflow: https://meta.stackexchange.com/users/789975/supragya24
   # telegram: your_username
   # twitter: your_username
   # unsplash: your_username
@@ -53,6 +53,10 @@ topics:
   - name: C
     web_url: https://github.com/topics/c-language
     image_url: https://www.pngitem.com/pimgs/m/31-312155_c-programming-language-logo-hd-png-download.png
+    
+  - name: Java
+    web_url: https://github.com/topics/java
+    image_url: https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png
     
   - name: Applications of Python 
     web_url: https://github.com/python
